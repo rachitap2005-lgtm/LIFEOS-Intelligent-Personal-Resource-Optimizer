@@ -8,22 +8,22 @@ It combines **task prioritization, smart study planning, budget tracking, and Wh
 
 The main goal of LIFEOS is to help students answer:
 <img width="808" height="539" alt="image" src="https://github.com/user-attachments/assets/62beebcf-f38b-4950-b06e-3d4af5fd8376" />
-📚 What should I do first?**  
-⏰ How should I use my available time?**  
-💰 How much budget do I have left?**  
-🔮 Can I afford an additional expense?**
+📚 What should I do first?**                                                                                                                                                                              
+⏰ How should I use my available time?**                                                                                                                                                                  
+💰 How much budget do I have left?**                                                                                                                                                                      
+🔮 Can I afford an additional expense?**                                                                                                                                                                  
 
-✨ 2. Features
+✨ 2. Features :-                                                                                                                                                                                         
 <img width="512" height="447" alt="image" src="https://github.com/user-attachments/assets/5c4e15e2-76b1-4ae1-a870-df84ebb53da3" />
-📚 Task Prioritization
-- Calculates priority for academic tasks.
-- Considers importance, difficulty, estimated hours, and deadline.
-- Displays tasks with their calculated priority.
-⏰ Smart Study Planning
-- Takes available study hours as input.
-- Sorts tasks according to priority.
-- Suggests tasks to **DO** or **POSTPONE**.
-💰 Budget Management
+📚 Task Prioritization                                                                                                                                                                                    
+- Calculates priority for academic tasks.                                                                                                                                                                 
+- Considers importance, difficulty, estimated hours, and deadline.                                                                                                                                        
+- Displays tasks with their calculated priority.                                                                                                                                                         
+⏰ Smart Study Planning                                                                                                                                                                                   
+- Takes available study hours as input.                                                                                                                                                                   
+- Sorts tasks according to priority.                                                                                                                                                                      
+- Suggests tasks to **DO** or **POSTPONE**.                                                                                                                                                               
+💰 Budget Management                                                                                                                                                                                      
 - Maintains a monthly student budget.
 - Tracks expenses.
 - Calculates spent and remaining budget.
