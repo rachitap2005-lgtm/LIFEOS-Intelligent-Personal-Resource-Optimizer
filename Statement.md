@@ -1,4 +1,4 @@
-🚀 LIFEOS – Intelligent Personal Resource Optimizer
+🚀 LIFEOS – Intelligent Personal Resource Optimizer .
 
 "Plan your tasks":- Manage your time. Control your budget. Make smarter decisions."**
 
