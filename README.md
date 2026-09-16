@@ -69,6 +69,6 @@ Feature	Test Performed	Expected Result
 💰 Budget	View budget-	Spending and balance displayed
 🔮 What-If	Enter extra expense	-New balance calculated
 ⚠️ Boundary Test- Excessive expense	Warning displayed
-🚪 Exit	Select 5- Program terminates
+🚪 Exit	Select 5- Program terminates.
 
 
